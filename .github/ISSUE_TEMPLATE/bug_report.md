@@ -4,6 +4,7 @@ about: Create a report to help us improve
 labels: 'Status: Pending'
 type: 'Bug'
 ---
+
 /!\ To report a **security issue** please follow this procedure:
    [https://github.com/Villanova-AI/villanova-open-source-project-showcase/wiki#villanova-vulnerability-management-process]
 
