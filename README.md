@@ -34,5 +34,6 @@ For information on installing Villanova, please see this [documentation section]
 - [Villanova web site](https://villanova.ai/).
 - [Development and issue tracking](https://github.com/Villanova-AI/villanova-open-source-project-showcase/tree/main/.github/ISSUE_TEMPLATE).
 
-
+## Code Of Conduct 
+- [Code Of Conduct](https://github.com/Villanova-AI/villanova-code-conduct/blob/main/README.md)
 
