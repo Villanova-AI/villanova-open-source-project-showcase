@@ -7,7 +7,7 @@
 
 ### To start using Villanova
 
-- Explore Villanova’s **key features** [on our website](https://villanova.ai/developer/).
+- Explore Villanova’s **key features** [on our website](https://villanova.ai/).
 - Browse our catalog of [screencasts and video-tutorials]https://villanova-ai.github.io/villanova-website-devdocs/villanova09/tutorials/#frontend-development).
 - See our [Documentation](https://villanova.ai/).
 - Join our [Community Forum](https://forum.villanova.ai/).
