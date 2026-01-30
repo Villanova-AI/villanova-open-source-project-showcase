@@ -10,7 +10,7 @@
 - Explore Villanova’s **key features** [on our website](https://villanova.ai/).
 - Browse our catalog of [screencasts and video-tutorials]https://villanova-ai.github.io/villanova-website-devdocs/villanova09/tutorials/#frontend-development).
 - See our [Documentation](https://villanova.ai/).
-- join our (villanovateam.slack.com).
+- join our (https://villanovagruppo.slack.com/).
 - join our (https://huggingface.co/villanova-ai).
 - Join our [Community Forum](https://forum.villanova.ai/).
 - Check our [Quick Start Guide](https://villanova-ai.github.io/villanova-website-devdocs/villanova09/docs/getting-started/).
