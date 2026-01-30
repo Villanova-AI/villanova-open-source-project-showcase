@@ -2,7 +2,7 @@
 
 ## Description
 
-[Villanova.ai](https://villanova.ai/) is an open source platform delivering a simple but feature-rich and flexible solution to build and manage enterprise clouds for virtualized services, containerized applications and serverless computing.
+[Villanova.ai](https://villanova.ai/) is an open source platform for the development of Multimodal Generative AI services.
 
 
 ### To start using Villanova
