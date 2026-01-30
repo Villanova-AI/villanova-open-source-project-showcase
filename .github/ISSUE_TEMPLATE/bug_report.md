@@ -1,5 +1,5 @@
 /!\ To report a **security issue** please follow this procedure:
-   []
+   [https://github.com/Villanova-AI/villanova-open-source-project-showcase/wiki#villanova-vulnerability-management-process]
 
 **Description**
 A clear and concise description of what the bug is.
