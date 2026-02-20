@@ -10,8 +10,8 @@
 - Explore Villanova’s **key features** [on our website](https://villanova.ai/).
 - Browse our catalog of [screencasts and video-tutorials](https://villanova-ai.github.io/villanova-website-devdocs/villanova09/tutorials/#frontend-development).
 - See our [Documentation](https://villanova.ai/).
-- Chat with us [slack](https://villanovagruppo.slack.com/).
-- Join our Slack community [here](https://join.slack.com/t/villanovagruppo/shared_invite/zt-3osvbtpqa-Xx14LhDNmy_1jC35DkRZgQ)
+- Chat with us on [Slack](https://villanovagruppo.slack.com/) *(members only)*
+  New? Join our Slack community [here](https://join.slack.com/t/villanovagruppo/shared_invite/zt-3osvbtpqa-Xx14LhDNmy_1jC35DkRZgQ) *(invitation link)*
 - See our Models and Dataset [Hugging Face](https://huggingface.co/villanova-ai).
 - Join our [Community Forum](https://forum.villanova.ai/).
 - Check our [Quick Start Guide](https://villanova-ai.github.io/villanova-website-devdocs/villanova09/docs/getting-started/).
